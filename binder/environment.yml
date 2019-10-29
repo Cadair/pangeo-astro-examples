@@ -26,8 +26,8 @@ dependencies:
   - ipywidgets
   - ipyleaflet
   - jupyter
-  - jupyterlab
-  - jupyterlab_launcher
+  - jupyterlab=0.35
+  - jupyterlab_launcher=0.13.1
   - jupyter_client
   - holoviews
   - libsodium
